@@ -1,0 +1,20 @@
+L’acronyme CMS signifie Content Management System, pour système de gestion de contenu.
+ C’est un type d’application web permettant de séparer le contenu de la mise en forme
+ pour des sites web, fournissant des moyens simplifiés d’éditer ce contenu.
+ De cette manière, il est possible de maintenir et de faire vivre un site web 
+sans la moindre connaissance technique dans les métiers du Web.
+
+Site institutionnel : WordPress, Joomla, Drupal, SPIP…
+Blog : WordPress, PluXml, DotClear…
+Site marketing : Drupal, eZ Publish, WordPress, HippoCMS…
+Réseau social : Drupal, WordPress
+Intranet/portail d’entreprise : Drupal, eZ Publish
+eCommerce : Prestashop, Magento, osCommerce, virtueMart et couple à WooCommerce WordPress…
+Forum : PhpBB, PunBB, vBulletin, Simples machines forum…
+
+
+
+ WordPress est le moyen le plus simple et le plus populaire de créer votre propre 
+site Web ou blog.Sur un plan un peu plus technique, WordPress est un système de gestion de 
+contenu open-source qui rend la construction d’un site Web accessible à tous même
+ aux personnes qui ne sont pas développeurs.
